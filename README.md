@@ -4,6 +4,7 @@
 
 Veritas Epoch is a decentralized, privacy-preserving communication protocol forked from the **Monero (CryptoNote)** codebase. While traditional blockchains are designed to be "Immutable Ledgers of History," Veritas Epoch is engineered to be an **"Immutable Ledger of Truth, with a Finite Memory."**
 
+[Read the Veritas Epoch Litepaper (PDF)](https://github.com/VeritasEpoch/veritas-epoch-core/blob/master/docs/Veritas%20Epoch%20-%20The%20Litepaper.pdf)
 ---
 
 ## 1. Executive Summary
